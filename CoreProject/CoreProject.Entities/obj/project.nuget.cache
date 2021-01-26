@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bv98QiS+glZrMUP8WHsUzBifhdXe4bervZC/QOcTzF0RPt4neRL6XsSM8d8OChtMrxzrhqQIPFvXm4qahA+GXQ==",
+  "dgSpecHash": "Rf7oQM+b5S/yQu6ATSWy1VpAL0S/fQ5KXbHsTIqjoQPlWVkPRmCMIBj4EBNuVB0pJO3+XJLxlsrYTSFp+C6eOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serdar.kaya\\source\\repos\\CoreProject\\CoreProject.Entities\\CoreProject.Entities.csproj",
+  "projectFilePath": "C:\\Users\\ultra\\Documents\\GitHub\\serdar1896\\EcommerceAPIWithDapper\\CoreProject\\CoreProject.Entities\\CoreProject.Entities.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\serdar.kaya\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\ultra\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }
